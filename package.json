@@ -1,0 +1,23 @@
+{
+  "name": "iioengine",
+  "version": "1.0.0",
+  "description": "JS Game Engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbiermanlytle/iioengine_v2.git"
+  },
+  "keywords": [
+    "game",
+    "engine"
+  ],
+  "author": "Sebastian Bierman-Lytle",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/sbiermanlytle/iioengine_v2/issues"
+  },
+  "homepage": "https://github.com/sbiermanlytle/iioengine_v2#readme"
+}
